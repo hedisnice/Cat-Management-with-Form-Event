@@ -1,0 +1,43 @@
+form {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.container {
+  max-width: 650px;
+  margin: 20px auto;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border: 2px solid #fcbf49;
+  border-radius: 5px;
+}
+label {
+  font-size: 20px;
+  margin-right: 8px;
+  color: #0a9396;
+}
+input {
+  font-size: 15px;
+  padding: 7px;
+  border: 2px solid #b0c4b1;
+  border-radius: 6px;
+  flex-grow: 0.8;
+  margin: 10px;
+}
+input:focus {
+  outline: none;
+}
+.btn-add {
+  background-color: #ffb3c6;
+  font-size: 18px;
+  margin: 10px;
+}
+
+select {
+  font-size: 18px;
+  padding: 7px;
+  margin: 10px;
+  border-radius: 5px;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
