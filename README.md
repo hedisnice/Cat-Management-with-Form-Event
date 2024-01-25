@@ -8,6 +8,8 @@ localStorage.setItem("cats", JSON.stringify(cats));
 
 to prevent refreshing the web page Then the recorded data disappeared. Thank you for watching."
 
+![Design preview](./design/desktop-preview.jpg)
+
 Links
 Solution URL: [https://github.com/hedisnice/Cat-Management-with-Form-Event]
 
